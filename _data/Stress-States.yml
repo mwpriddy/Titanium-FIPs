@@ -1,0 +1,116 @@
+name: Stress-States
+description: []
+layout: dictionary
+spatial:
+- group:
+  - name: DEFAULT
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PHI
+    native: PHI
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PS11
+    native: PS11
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PS12
+    native: PS12
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PS13
+    native: PS13
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PS22
+    native: PS22
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PS23
+    native: PS23
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PS33
+    native: PS33
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: S11
+    native: S11
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: S12
+    native: S12
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: S13
+    native: S13
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: S22
+    native: S22
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: S23
+    native: S23
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: S33
+    native: S33
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: phi_1
+    native: phi_1
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: phi_2
+    native: phi_2
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+url: /2014/03/24/Stress-States.html
