@@ -3,7 +3,7 @@ description: []
 layout: dictionary
 spatial:
 - group:
-  - name: DEFAULT
+  - name: Euler Angles
     description: []
     links:
       url: []
@@ -15,6 +15,23 @@ spatial:
     links:
       url: []
       name: []
+  - pretty: phi_1
+    native: phi_1
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: phi_2
+    native: phi_2
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+- group:
+  - name: Plastic Strain
+    description:
   - pretty: PS11
     native: PS11
     units: undefined
@@ -57,9 +74,11 @@ spatial:
     links:
       url: []
       name: []
+- group:
+  - name: Stress
   - pretty: S11
     native: S11
-    units: undefined
+    units: MPa
     description: []
     links:
       url: []
@@ -94,20 +113,6 @@ spatial:
       name: []
   - pretty: S33
     native: S33
-    units: undefined
-    description: []
-    links:
-      url: []
-      name: []
-  - pretty: phi_1
-    native: phi_1
-    units: undefined
-    description: []
-    links:
-      url: []
-      name: []
-  - pretty: phi_2
-    native: phi_2
     units: undefined
     description: []
     links:
