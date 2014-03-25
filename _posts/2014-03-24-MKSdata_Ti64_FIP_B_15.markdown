@@ -10,6 +10,7 @@ spatial:
   - {native: phi_1}
   - {native: PHI}
   - {native: phi_2}
+  location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_15.h5
 - name: Peak-1
   native: Peak-1
   description: []
@@ -26,6 +27,7 @@ spatial:
   - {native: PS12}
   - {native: PS13}
   - {native: PS23}
+  location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_15.h5
 - name: Peak-2
   native: Peak-2
   description: []
@@ -42,6 +44,7 @@ spatial:
   - {native: PS12}
   - {native: PS13}
   - {native: PS23}
+  location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_15.h5
 - name: Peak-3
   native: Peak-3
   description: []
@@ -58,6 +61,7 @@ spatial:
   - {native: PS12}
   - {native: PS13}
   - {native: PS23}
+  location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_15.h5
 - name: Valley-1
   native: Valley-1
   description: []
@@ -74,6 +78,7 @@ spatial:
   - {native: PS12}
   - {native: PS13}
   - {native: PS23}
+  location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_15.h5
 - name: Valley-2
   native: Valley-2
   description: []
@@ -90,6 +95,7 @@ spatial:
   - {native: PS12}
   - {native: PS13}
   - {native: PS23}
+  location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_15.h5
 - name: Valley-3
   native: Valley-3
   description: []
@@ -106,5 +112,7 @@ spatial:
   - {native: PS12}
   - {native: PS13}
   - {native: PS23}
+  location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_15.h5
 dict: Stress-States
+input: {location: 'https://www.dropbox.com/s/c1tx6z7qwfyxynx/MKSdata_Ti64_FIP_B_15.mat'}
 ---
