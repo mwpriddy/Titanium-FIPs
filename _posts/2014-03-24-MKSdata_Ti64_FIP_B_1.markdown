@@ -114,5 +114,5 @@ spatial:
   - {native: PS23}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_1.h5
 dict: Stress-States
-location: https://www.dropbox.com/s/c1tx6z7qwfyxynx/MKSdata_Ti64_FIP_B_1.mat
+input: {location: 'https://www.dropbox.com/s/c1tx6z7qwfyxynx/MKSdata_Ti64_FIP_B_1.mat'}
 ---
