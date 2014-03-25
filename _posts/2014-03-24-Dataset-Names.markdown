@@ -7,6 +7,7 @@ The datasets are named to correspond with the peaks and valleys on the load cycl
 
 
 <table border="1">
+<tr><td>Dataset</td><td>Raw</td></tr>
 <tr><td>Peak 1</td><td>c1max</td></tr>
 <tr><td>Peak 2</td><td>c2max</td></tr>
 <tr><td>Peak 3</td><td>c3max</td></tr>
