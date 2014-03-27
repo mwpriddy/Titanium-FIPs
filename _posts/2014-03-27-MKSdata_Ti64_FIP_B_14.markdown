@@ -2,6 +2,49 @@
 layout: dataset
 title: MKSdata_Ti64_FIP_B_14
 description: []
+aggregate:
+- name: Input-Structure
+  native: Input-Structure
+  description: []
+  output:
+  - {native: vonmisesmax, value: .NaN}
+  - {native: vonmisesmean, value: .NaN}
+- name: Peak-1
+  native: Peak-1
+  description: []
+  output:
+  - {native: vonmisesmax, value: 849.3262580021901}
+  - {native: vonmisesmean, value: 643.372176512948}
+- name: Peak-2
+  native: Peak-2
+  description: []
+  output:
+  - {native: vonmisesmax, value: 848.9877869208699}
+  - {native: vonmisesmean, value: 643.3765436574546}
+- name: Peak-3
+  native: Peak-3
+  description: []
+  output:
+  - {native: vonmisesmax, value: 831.1036136578686}
+  - {native: vonmisesmean, value: 629.9744690080921}
+- name: Valley-1
+  native: Valley-1
+  description: []
+  output:
+  - {native: vonmisesmax, value: 850.4222469469865}
+  - {native: vonmisesmean, value: 643.323300233105}
+- name: Valley-2
+  native: Valley-2
+  description: []
+  output:
+  - {native: vonmisesmax, value: 831.6715163718939}
+  - {native: vonmisesmean, value: 629.96413871539}
+- name: Valley-3
+  native: Valley-3
+  description: []
+  output:
+  - {native: vonmisesmax, value: 831.3518490731904}
+  - {native: vonmisesmean, value: 629.967175123167}
 spatial:
 - name: Input-Structure
   native: Input-Structure
@@ -140,44 +183,6 @@ spatial:
   viz:
   - url: https://dl.dropboxusercontent.com/u/22455492/Ti-FIPs/Figures/VonMisesContour-MKSdata_Ti64_FIP_B_14-Valley-3.png
     name: []
-aggregate:
-- []
-- name: Peak-1
-  native: Peak-1
-  description: []
-  output:
-  - {native: vonmisesmax, value: 849.3262580021901}
-  - {native: vonmisesmean, value: 643.372176512948}
-- name: Peak-2
-  native: Peak-2
-  description: []
-  output:
-  - {native: vonmisesmax, value: 848.9877869208699}
-  - {native: vonmisesmean, value: 643.3765436574546}
-- name: Peak-3
-  native: Peak-3
-  description: []
-  output:
-  - {native: vonmisesmax, value: 831.1036136578686}
-  - {native: vonmisesmean, value: 629.9744690080921}
-- name: Valley-1
-  native: Valley-1
-  description: []
-  output:
-  - {native: vonmisesmax, value: 850.4222469469865}
-  - {native: vonmisesmean, value: 643.323300233105}
-- name: Valley-2
-  native: Valley-2
-  description: []
-  output:
-  - {native: vonmisesmax, value: 831.6715163718939}
-  - {native: vonmisesmean, value: 629.96413871539}
-- name: Valley-3
-  native: Valley-3
-  description: []
-  output:
-  - {native: vonmisesmax, value: 831.3518490731904}
-  - {native: vonmisesmean, value: 629.967175123167}
 dict: Stress-States
 input: {location: 'https://www.dropbox.com/s/c1tx6z7qwfyxynx/MKSdata_Ti64_FIP_B_14.mat'}
 ---
