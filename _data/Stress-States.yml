@@ -3,7 +3,7 @@ description: []
 layout: dictionary
 aggregate:
 - group:
-  - name: DEFAULT
+  - name: Von Mises Criterion
     description: []
     links:
       url: []
@@ -24,14 +24,7 @@ aggregate:
       name: []
 spatial:
 - group:
-  - name: DEFAULT
-    description: []
-    links:
-      url: []
-      name: []
-  - pretty: PHI
-    native: PHI
-    units: undefined
+  - name: Plastic Strain Tensor
     description: []
     links:
       url: []
@@ -78,6 +71,12 @@ spatial:
     links:
       url: []
       name: []
+- group:
+  - name: Strain Tensor
+    description: []
+    links:
+      url: []
+      name: []
   - pretty: S11
     native: S11
     units: undefined
@@ -120,6 +119,12 @@ spatial:
     links:
       url: []
       name: []
+- group:
+  - name: Bunge-Euler Angles
+    description: []
+    links:
+      url: []
+      name: []
   - pretty: phi_1
     native: phi_1
     units: undefined
@@ -130,6 +135,19 @@ spatial:
   - pretty: phi_2
     native: phi_2
     units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: PHI
+    native: PHI
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+- group:
+  - name: Workflows
     description: []
     links:
       url: []
