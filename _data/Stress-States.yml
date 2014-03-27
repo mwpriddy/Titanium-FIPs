@@ -1,9 +1,30 @@
 name: Stress-States
 description: []
 layout: dictionary
+aggregate:
+- group:
+  - name: DEFAULT
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: vonmisesmax
+    native: vonmisesmax
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: vonmisesmean
+    native: vonmisesmean
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
 spatial:
 - group:
-  - name: Euler Angles
+  - name: DEFAULT
     description: []
     links:
       url: []
@@ -15,23 +36,6 @@ spatial:
     links:
       url: []
       name: []
-  - pretty: phi_1
-    native: phi_1
-    units: undefined
-    description: []
-    links:
-      url: []
-      name: []
-  - pretty: phi_2
-    native: phi_2
-    units: undefined
-    description: []
-    links:
-      url: []
-      name: []
-- group:
-  - name: Plastic Strain
-    description:
   - pretty: PS11
     native: PS11
     units: undefined
@@ -74,11 +78,9 @@ spatial:
     links:
       url: []
       name: []
-- group:
-  - name: Stress
   - pretty: S11
     native: S11
-    units: MPa
+    units: undefined
     description: []
     links:
       url: []
@@ -118,4 +120,25 @@ spatial:
     links:
       url: []
       name: []
-url: /2014/03/24/Stress-States.html
+  - pretty: phi_1
+    native: phi_1
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: phi_2
+    native: phi_2
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: vonmises
+    native: vonmises
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+url: /2014/03/27/Stress-States.html
