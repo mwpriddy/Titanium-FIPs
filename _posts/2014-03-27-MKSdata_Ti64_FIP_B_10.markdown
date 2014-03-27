@@ -12,7 +12,7 @@ spatial:
   - {native: phi_2}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_10.h5
   viz:
-  - url: https://www.dropbox.com/s/q6kl7ge7rv9s3ne/SliceNearMax-MKSdata_Ti64_FIP_B_10-Input-Structure.png
+  - url: https://dl.dropboxusercontent.com/u/22455492/SliceNearMax-MKSdata_Ti64_FIP_B_10-Input-Structure.png
     name: []
 - name: Peak-1
   native: Peak-1
@@ -33,7 +33,7 @@ spatial:
   - {native: vonmises}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_10.h5
   viz:
-  - url: https://www.dropbox.com/s/q6kl7ge7rv9s3ne/VonMisesContour-MKSdata_Ti64_FIP_B_10-Peak-1.png
+  - url: https://dl.dropboxusercontent.com/u/22455492/VonMisesContour-MKSdata_Ti64_FIP_B_10-Peak-1.png
     name: []
 - name: Peak-2
   native: Peak-2
@@ -54,7 +54,7 @@ spatial:
   - {native: vonmises}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_10.h5
   viz:
-  - url: https://www.dropbox.com/s/q6kl7ge7rv9s3ne/VonMisesContour-MKSdata_Ti64_FIP_B_10-Peak-2.png
+  - url: https://dl.dropboxusercontent.com/u/22455492/VonMisesContour-MKSdata_Ti64_FIP_B_10-Peak-2.png
     name: []
 - name: Peak-3
   native: Peak-3
@@ -75,7 +75,7 @@ spatial:
   - {native: vonmises}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_10.h5
   viz:
-  - url: https://www.dropbox.com/s/q6kl7ge7rv9s3ne/VonMisesContour-MKSdata_Ti64_FIP_B_10-Peak-3.png
+  - url: https://dl.dropboxusercontent.com/u/22455492/VonMisesContour-MKSdata_Ti64_FIP_B_10-Peak-3.png
     name: []
 - name: Valley-1
   native: Valley-1
@@ -96,7 +96,7 @@ spatial:
   - {native: vonmises}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_10.h5
   viz:
-  - url: https://www.dropbox.com/s/q6kl7ge7rv9s3ne/VonMisesContour-MKSdata_Ti64_FIP_B_10-Valley-1.png
+  - url: https://dl.dropboxusercontent.com/u/22455492/VonMisesContour-MKSdata_Ti64_FIP_B_10-Valley-1.png
     name: []
 - name: Valley-2
   native: Valley-2
@@ -117,7 +117,7 @@ spatial:
   - {native: vonmises}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_10.h5
   viz:
-  - url: https://www.dropbox.com/s/q6kl7ge7rv9s3ne/VonMisesContour-MKSdata_Ti64_FIP_B_10-Valley-2.png
+  - url: https://dl.dropboxusercontent.com/u/22455492/VonMisesContour-MKSdata_Ti64_FIP_B_10-Valley-2.png
     name: []
 - name: Valley-3
   native: Valley-3
@@ -138,7 +138,7 @@ spatial:
   - {native: vonmises}
   location: https://www.dropbox.com/s/lyntwf8r25cvtxy/MKSdata_Ti64_FIP_B_10.h5
   viz:
-  - url: https://www.dropbox.com/s/q6kl7ge7rv9s3ne/VonMisesContour-MKSdata_Ti64_FIP_B_10-Valley-3.png
+  - url: https://dl.dropboxusercontent.com/u/22455492/VonMisesContour-MKSdata_Ti64_FIP_B_10-Valley-3.png
     name: []
 aggregate:
 - []
